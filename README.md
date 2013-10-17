@@ -1,10 +1,10 @@
->
+<pre><code>
  _   _  __ _ _ __   __ _| |__   __ _ _ __  _ __  
 | | | |/ _` | '_ \ / _` | '_ \ / _` | '_ \| '_ \ 
 | |_| | (_| | |_) | (_| | |_) | (_| | |_) | |_) |
  \__, |\__,_| .__/ \__,_|_.__/ \__,_| .__/| .__/ 
  |___/      |_|                     |_|   |_|    
-
+</code></pre>
 
 # [yapabwa](https://github.com/syjust/yapabwa.git)
 
@@ -19,12 +19,14 @@ Yet Another Play / Angular / Bootstrap Web Application
 ## Quick Start
 + Checkout this project
 + on linux or mac, you can
-**launch the script deploy.js that will do everithing for you**
+
+**launch the script deploy.js that will do everything for you**
+
 >
 	$ chmod +x ./bin/deploy.js
 	$ ./bin/deploy.js
 
-**or make everithing yourself for a better comprehension of each element**
+**or make everything yourself for a better comprehension of each element**
 
 + Download [AngularJS](http://code.angularjs.org/1.0.8/angular.js)
 + Download [AngularStrap](https://raw.github.com/mgcrea/angular-strap/v0.7.5/dist/angular-strap.js)
@@ -38,4 +40,5 @@ Yet Another Play / Angular / Bootstrap Web Application
 
 
 + on windows you can do
+
 **nothing :p**
